@@ -13,3 +13,4 @@ run the below code
 
 ```python generate_dataset.py```
 ## Loss and accuracy
+![alt text](assets/loss%20and%20accuracy.PNG)
