@@ -1,0 +1,7 @@
+tensorflow
+numpy
+pandas
+deepface
+os
+cv2
+sklearn
